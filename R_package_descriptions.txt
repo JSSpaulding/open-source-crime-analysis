@@ -1,0 +1,17 @@
+data.table: fast aggregation of large data
+dplyr: fast and concise data manipulation packages
+ggmap: extends the plotting package ggplot2 for maps, enables Google Maps API
+igraph: routines for simple graphs and network analysis
+KernSmooth: functions for kernel smoothing (and density estimation)
+leaflet: package for interactive mapping
+lubridate: functions to work with date-times and time-spans
+maptools: provides various mapping functions, in particular 'ESRI Shapefiles'
+rgdal: R's interface to the popular C/C++ spatial data processing library gdal
+rgeos: R's interface to the powerful vector processing library geos
+sp: used for classes and methods of handling spatial data
+tidyr: fast and concise data manipulation packages
+tmap: used to rapidly create beautiful maps
+TTR: functions and data to construct technical trading rules with R. Used for series data
+
+
+
